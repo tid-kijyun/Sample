@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SampleLib",
+        "repositoryURL": "https://github.com/tid-kijyun/SampleLib.git",
+        "state": {
+          "branch": "main",
+          "revision": "5432550ddec897fb4fa9bccfa58f87730f77a7c7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
