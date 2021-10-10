@@ -5,9 +5,9 @@
         "package": "SampleLib",
         "repositoryURL": "https://github.com/tid-kijyun/SampleLib.git",
         "state": {
-          "branch": "main",
-          "revision": "5432550ddec897fb4fa9bccfa58f87730f77a7c7",
-          "version": null
+          "branch": null,
+          "revision": "73b1cf3f3889b57e43b913faf89a7c12d9747361",
+          "version": "0.0.2"
         }
       }
     ]
